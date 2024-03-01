@@ -11,7 +11,7 @@ A simple shopping cart web application built with React.js for the frontend, Exp
 
 ## Demo
 
-![Homepage](/home.png.png)
+![Homepage](/home.png)
 ![Cart](/cart.png)
 ![Checkout](/checkout.png)
 
