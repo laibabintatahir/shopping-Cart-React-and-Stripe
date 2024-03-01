@@ -20,12 +20,15 @@ A simple shopping cart web application built with React.js for the frontend, Exp
 
 git clone <repository_url>
 
-### for frontend 
+### Frontend Installation
+
+```bash
 cd store
 npm install
 npm start
 
-### for backend 
+### for backend
+```bash
 cd shopping
 npm install
 npm start
