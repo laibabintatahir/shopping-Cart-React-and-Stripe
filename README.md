@@ -16,21 +16,3 @@ A simple shopping cart web application built with React.js for the frontend, Exp
 ![Checkout](/checkout.png)
 
 
-## Clone the repository
-
-git clone <repository_url>
-
-### Frontend Installation
-
-```bash
-cd store
-npm install
-npm start
-
-### for backend
-```bash
-cd shopping
-npm install
-npm start
-
-
